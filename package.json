@@ -1,0 +1,25 @@
+{
+  "name": "antDesign-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caraxiong/antDesign-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caraxiong/antDesign-dev/issues"
+  },
+  "homepage": "https://github.com/Caraxiong/antDesign-dev#readme",
+  "devDependencies": {
+    "babel-loader": "^6.4.1",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
